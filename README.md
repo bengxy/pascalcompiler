@@ -5,7 +5,7 @@ pascal compiler
 
 A simple MIPS compiler of pascal
 
-author @bengxy @chencheng  of Zhejiang University.
+author [@bengxy](https://github.com/bengxy) [@chenchengcc](https://github.com/ChenChengCC)  of Zhejiang University.
 
 ==============
 
