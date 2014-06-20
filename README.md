@@ -1,4 +1,4 @@
-pascalcompiler
+pascal compiler
 ==============
 
 ###discription
