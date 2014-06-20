@@ -27,5 +27,5 @@ Mars is included in the pascalcompiler file.
 Use g++ compile all the *.c and *.cpp file together to get a result file pasasm.out
 
 And use  <br>
-./result.out < source.pas > generate.asm <br>
+./pasasm.out < source.pas > generate.asm <br>
 to get a  asm file.
